@@ -1,4 +1,4 @@
-# TAS Faculty Budget Manager
+# tas faculty budget manager
 Project completed during the Year 12 (2021) Software Design and Development HSC course. <br /><br />
 Demonstrates C# Winforms and SQLite to store data of the users and faculty. This database file is accessible at SDDH1_CODE_JADEHARRIS\SDDH1_CODE_JADEHARRIS\bin\Debug\TASFacultyDatabase.<br />
 Not currently maintained or updated since 2021.
