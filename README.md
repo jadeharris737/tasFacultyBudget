@@ -4,7 +4,7 @@ Demonstrates C# Winforms and SQLite Studio to store data of the users and facult
 Not currently maintained or updated since 2021.
 
 # comments
-Naming conventions do not follow lower and upper camelcase structure followed now. <br />In retrospect meaningful identifiers would have been used.
+Naming conventions do not follow lower and upper camelcase structure followed now. <br />In retrospect, more meaningful identifiers would have been used.
 
 # startup
 Upload files into Visual Studio 2019. The .vs file should generate appropriately.<br />
