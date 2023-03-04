@@ -10,7 +10,7 @@ Naming conventions do not follow lower and upper camelcase structure followed no
 Upload files into Visual Studio 2019. The .vs file should generate appropriately.<br />
 
 <b>Login for 'principal'/admin account:</b><br/>
-Username: 'admin'
+Username: 'admin'<br />
 Password: 'password'<br />
 (This is visible by accessing the database file at SDDH1_CODE_JADEHARRIS\SDDH1_CODE_JADEHARRIS\bin\Debug\TASFacultyDatabase)
 
