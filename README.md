@@ -7,7 +7,12 @@ Not currently maintained or updated since 2021.
 Naming conventions do not follow lower and upper camelcase structure followed now. Also, in retrospect meaningful identifiers would have been used.
 
 # startup
-Upload files into Visual Studio 2019. The .vs file should generate appropriately. <br />
+Upload files into Visual Studio 2019. <br />
+Login for 'principal'/admin account:
+Username: 'admin'
+Password: 'password'
+(This is visible by accessing the database file at SDDH1_CODE_JADEHARRIS\SDDH1_CODE_JADEHARRIS\bin\Debug\TASFacultyDatabase)
+
 NuGet packages required:
 - System.Data.SQLite.1.0.113.7
 
